@@ -1,0 +1,12 @@
+h1{
+    color: red;
+    font-size: 50px;
+}
+
+.pizza {
+    width: 30%;
+}
+
+img:hover {
+    background-color: grey;
+}
